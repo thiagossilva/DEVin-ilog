@@ -1,0 +1,3 @@
+3 - Informe qual comando git usamos para verificar a situação atual do repositório e da staging area.
+
+R: O comando para verificar a situação é: git status.

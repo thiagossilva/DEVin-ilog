@@ -1,0 +1,18 @@
+1 - Explique com suas palavras o que seria o limite W.I.P. no Kanban.
+
+R: W.I.P é a quantidade de processos que a equipe de desenvolvimento consegue trabalhar por ver. Movendo da parte "Fazer" para a parte "Fazendo".
+
+
+2 - Informe qual comando git gera um 'pacote' de alterações feitas no repositório, contendo arquivos alterados, autor e uma mensagem de resumo.
+
+R: O comando para gerar um 'pacote' é: git commit -m "Mensagem".
+
+
+3 - Informe qual comando git usamos para verificar a situação atual do repositório e da staging area.
+
+R: O comando para verificar a situação é: git status.
+
+
+4 - Informe qual comando git usamos para listar os branchs disponíveis/existentes.
+
+R: Listar branchs disponíveis: git branch.

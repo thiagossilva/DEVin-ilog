@@ -1,0 +1,3 @@
+2 - Informe qual comando git gera um 'pacote' de alterações feitas no repositório, contendo arquivos alterados, autor e uma mensagem de resumo.
+
+R: O comando para gerar um 'pacote' é: git commit -m "Mensagem".

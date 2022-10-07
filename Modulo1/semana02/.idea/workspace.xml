@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="faa23349-ba9b-447b-b54a-02d55771561b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aula03/src/DesafioRepeticao01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/DesafioRepeticao02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/DesafioRepeticao03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/DesafioRepeticao04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/LacoForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/RepeticaoForArraysListas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula03/src/RepeticaoSomaFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula04/src/orientacaoobjetos/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula04/src/orientacaoobjetos/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula04/src/orientacaoobjetos/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosSemanais/src/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosSemanais/src/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosSemanais/src/Exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosSemanais/src/Exercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosSemanais/src/Exercicio05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosSemanais/src/Exercicio06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosSemanais/src/Exercicio07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosSemanais/src/Exercicio08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosSemanais/src/Exercicio09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciciosSemanais/src/Exercicio10.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F65rSD0aq0g6C2G0p1tgrihxOF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/thi_t/Desktop/Estudos/JAVA/POO-JAVA/exMatriz"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Exercicio08">
+    <configuration name="Exercicio06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio06" />
+      <module name="exerciciosSemanais" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio07" />
+      <module name="exerciciosSemanais" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio08" />
+      <module name="exerciciosSemanais" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio09" />
+      <module name="exerciciosSemanais" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio10" />
+      <module name="exerciciosSemanais" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="semana02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="semana02" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercicio08" />
+        <item itemvalue="Application.Exercicio10" />
+        <item itemvalue="Application.Exercicio09" />
+        <item itemvalue="Application.Exercicio07" />
+        <item itemvalue="Application.Exercicio06" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faa23349-ba9b-447b-b54a-02d55771561b" name="Changes" comment="" />
+      <created>1663799892119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663799892119</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db17862e-01cf-4f05-8292-ec07af48b94c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/exerciciosGit/exGit1-4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exerciciosJava/ex05Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/exerciciosJava/ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exerciciosJava/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/exerciciosJava/ex10CLI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exerciciosJava/ex6Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/exerciciosJava/ex6Operadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exerciciosJava/ex7Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/exerciciosJava/ex7Operadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exerciciosJava/ex8Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/exerciciosJava/ex8Operadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exerciciosJava/ex9CLI.java" beforeDir="false" afterPath="$PROJECT_DIR$/exerciciosJava/ex9CLI.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ErajaRfSwEj3FsKWB5feTuf1zB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/thi_t/Desktop/Estudos/JAVA/POO-JAVA/exMatriz"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ex10">
+    <configuration name="ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex10" />
+      <module name="Exercicios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex6Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex6Operadores" />
+      <module name="Exercicios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex7Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex7Operadores" />
+      <module name="Exercicios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex8Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex8Operadores" />
+      <module name="Exercicios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex9CLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex9CLI" />
+      <module name="Exercicios" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ex10" />
+        <item itemvalue="Application.ex9CLI" />
+        <item itemvalue="Application.ex8Operadores" />
+        <item itemvalue="Application.ex7Operadores" />
+        <item itemvalue="Application.ex6Operadores" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db17862e-01cf-4f05-8292-ec07af48b94c" name="Changes" comment="" />
+      <created>1663356295726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663356295726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
