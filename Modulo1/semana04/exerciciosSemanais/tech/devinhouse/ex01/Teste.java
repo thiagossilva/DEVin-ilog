@@ -9,6 +9,6 @@ public class Teste {
 
         conta.depositar(250.0);
 
-
+        System.out.println( conta.obterSaldoAtual());
     }
 }

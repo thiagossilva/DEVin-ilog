@@ -5,7 +5,7 @@ public abstract class Conta {
 
 
     protected Double obterSaldoAtual() {
-        return this.saldo = saldo;
+        return this.saldo;
     }
 
     public Double getSaldo() {

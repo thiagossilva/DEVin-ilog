@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4ad9505-4519-4961-86c3-21278724bd5c" name="Changes" comment="" />
+    <list default="true" id="e4ad9505-4519-4961-86c3-21278724bd5c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exerciciosSemanais/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exerciciosSemanais/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exerciciosSemanais/tech/devinhouse/ex02/Testa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exerciciosSemanais/tech/devinhouse/ex02/Testa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exerciciosSemanais/tech/devinhouse/ex03/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exerciciosSemanais/tech/devinhouse/ex03/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exerciciosSemanais/tech/devinhouse/ex03/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exerciciosSemanais/tech/devinhouse/ex03/Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exerciciosSemanais/tech/devinhouse/ex03/Tributavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exerciciosSemanais/tech/devinhouse/ex03/Tributavel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exerciciosSemanais/tech/devinhouse/ex04/Excecoes04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exerciciosSemanais/tech/devinhouse/ex04/Excecoes04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/devinhouse/SuperHerois/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tech/devinhouse/SuperHerois/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/devinhouse/ex02/Testa.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech/devinhouse/ex02/Testa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/devinhouse/ex03/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech/devinhouse/ex03/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/devinhouse/ex03/Tributavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech/devinhouse/ex03/Tributavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech/devinhouse/ex04/Excecoes04.java" beforeDir="false" afterPath="$PROJECT_DIR$/tech/devinhouse/ex04/Excecoes04.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,14 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thi_t/Desktop/DEVinHouse/Modulos/Modulo1/semana04/exerciciosSemanais"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thi_t/Desktop/DEVinHouse/Modulos/Modulo1/semana04/aula05&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Excecoes04">
+}</component>
+  <component name="RunManager" selected="Application.Teste">
     <configuration name="Excecoes04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tech.devinhouse.ex04.Excecoes04" />
       <module name="exerciciosSemanais" />
@@ -91,10 +104,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teste" />
         <item itemvalue="Application.Excecoes04" />
         <item itemvalue="Application.tech.devinhouse.ex03.Teste" />
         <item itemvalue="Application.Testa" />
-        <item itemvalue="Application.Teste" />
       </list>
     </recent_temporary>
   </component>
