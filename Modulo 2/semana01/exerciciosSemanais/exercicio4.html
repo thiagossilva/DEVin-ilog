@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;     
+        }
+
+        div {
+            display: flex;
+            justify-content: center;
+        }
+
+        fieldset legend {
+            font-weight: bold;
+        }
+
+        section {
+            background-color: #d6eaf8;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 10px 2px;
+        }
+
+        label {
+            width: 200px;
+            margin-top: 5px;
+        }
+
+        input {
+            width: 250px;
+            border-radius: 5px;
+            margin-top: 5px;
+        }
+
+        select {
+            width: 260px;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="texto-formulario">Formulário de cadastro</h1>
+    <fieldset>
+        <legend>Preencha os dados</legend>
+
+        <section>
+            <div>
+                <label for="input-nome">Nome: </label>
+                <input type="text" id="input-nome"> 
+            </div>
+            <div>
+                <label for="input-data-nascimento">Data de Nascimento: </label>
+                <input type="date" id="input-data-nascimento"> 
+            </div>
+            <div>
+                <label for="input-cpf">CPF: </label>
+                <input type="text" id="input-cpf"> 
+            </div>
+            <div>
+                <label for="input-município">Município: </label>
+                <select id="input-municipio">
+                    <option>Selecione</option>
+                    <option value="FLN">Florianópolis/SC</option>
+                    <option value="SP">São Paulo/SP</option>
+                    <option value="RJ">Rio de Janeiro</option>
+                    <option value="BSB">Brasília</option>
+                </select>
+            </div>
+        </section>
+
+    </fieldset> 
+</body>
+</html>

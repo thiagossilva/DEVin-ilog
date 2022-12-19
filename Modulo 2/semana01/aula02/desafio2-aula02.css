@@ -1,0 +1,15 @@
+#copa-container img {
+    width: 290px;
+    height: 160px;
+}
+ 
+#copa-container table {
+    border: 2px solid gray;
+    width: 290px;
+    border-collapse: collapse;
+}
+#copa-container td {
+    border: 1.5px solid gray;
+    padding: 10px;
+    font-size: 1.1rem;
+}

@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#compras-container {
+    background-color: lightgray;
+    width: 50%;
+}
+h1 {
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    margin: 10px;
+}
+li {
+    margin: 10px 0px;
+    font-size: 1.2rem;
+}
+#-pao {
+    color: brown;
+}
+#laranja {
+    color: orange;
+}
+#limao {
+    color: green;
+}
+#vinho {
+    color: purple;
+}
