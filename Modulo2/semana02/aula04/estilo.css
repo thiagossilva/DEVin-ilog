@@ -1,0 +1,62 @@
+div.primary {
+    background-color: red;
+  }
+  
+  
+  div.primaria {
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+  }
+  
+  .color-primary {
+    color: red;
+  }
+  
+  div.red {
+    background-color: red;
+  }
+  
+  .box .cabecalho-box,
+  .box .box-header {
+    color: red;
+    padding: 2px 5px;
+    display: flex;
+  }
+  .box .cabecalho-box button:hover,
+  .box .box-header button:hover {
+    background-color: rgb(245, 94, 94);
+  }
+  .box .cabecalho-box h2 .title,
+  .box .box-header h2 .title {
+    margin-bottom: 5px;
+  }
+  .box .cabecalho-box div.box-footer,
+  .box .box-header div.box-footer {
+    padding: 30px;
+  }
+  
+  .modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .modal-tiny {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+  }
+  
+  .modal-larger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+  }
+  
+  /*# sourceMappingURL=day04.css.map */

@@ -1,0 +1,79 @@
+//VARIÁVEIS COM SCSS
+//Declarações de variáveis e importações ficam no início do código
+$cor-primaria: red;
+$cor-secondaria: green;
+
+$cor-primaria-ligth: rgb(245, 94, 94);
+$cor-primaria-dark: rgb(147, 3, 3);
+$font-size-default: 16px;
+
+.primary{
+    background-color: $cor-primaria; //Forma de utilizar a variável
+}
+.caixa{
+    background-color: $cor-primaria;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: $font-size-default;
+}
+.color-primary{
+    color: $cor-primaria;
+}
+div{
+    &.red{ //Nested selectors com classes
+        background-color: $cor-primaria;
+    }
+}
+
+
+//NESTED SELECTORS
+.box{
+    //código css apenas responsável pelo elemento que tiver a classe box
+    .cabecalho-box,
+    .box-header{
+        color: $cor-primaria;
+        padding: 2px 5px;
+        display: flex;
+        button{
+            &:hover{
+                //passe o mouse em cima da palavra hover para ver qual elemento
+                //irá pegar o css
+                background-color: $cor-primaria-ligth;
+            }
+        }
+        h2{
+            .title{
+                margin-bottom: 5px;
+            }
+        }
+        div{
+            &.box-footer{
+                padding: 30px;
+            }
+        }
+    }
+}
+
+
+//MIXIN
+//Funciona como se fosse uma função do javascript com 
+//parametros e tudo
+@mixin flexbox($padding-size){
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: $padding-size;
+}
+
+.modal{
+    //Ao chamar o flexbox() ele irá incluir todas as configurações 
+    //do mixin flexbox()
+    @include flexbox(10px); 
+}
+.modal-tiny{
+    @include flexbox(5px);
+}
+.modal-larger{
+    @include flexbox(15px);
+}
