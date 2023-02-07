@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "nome": "Thiago",
+    "idade" : 26,
+    "turmas": [{
+        "nome": "ilog"
+    }]
+}

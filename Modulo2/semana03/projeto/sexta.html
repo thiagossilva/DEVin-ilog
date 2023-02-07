@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camal de casal para dormir bem</title>
+    <link rel="stylesheet" href="sexta.css">
+</head>
+
+<body>
+    <div class="container">
+        <header class="row"></header>
+        <div class="row">
+            <img class="col-7" src="https://cdn.shopify.com/s/files/1/0560/2666/0929/products/cama-casal-dener-mel-vista-de-frente-com-parede-azul-ao-fundo-mesa-de-cabeceira-dener-do-lado-e-bau-dener-na-frente-da-cama-com-colcha-manta-e-travesseiro-sobre-a-cama_600x400.jpg?v=1652458433"></img>
+            <div class="col-5">
+                <h1 id="titulo" class="col-12">CAMA DE CASAL</h1>
+                <h3 id="descricao" class="col-12">Cama boa para dormir!</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="accordion" id="accordionExample">
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        FICHA TECNICA
+                    </button>
+                  </h2>
+                  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+<strong>Marca</strong>: Anjos;<br>
+<strong>Tipo de Mola</strong>: Superlastic;<br>
+<strong>Proteções</strong>: Antiácaro - Antialérgico - Antifungo - Antimofo;<br>
+<strong>Acabamento</strong>: Bordado em Matelassê;<br>
+<strong>Matéria prima</strong>: Espuma/Molas/Tecido;<br>
+<strong>Tipo de conforto</strong>: Macio;<br>
+<strong>Peso máximo recomendado</strong>: até 120kg (por pessoa);<br>
+<strong>Cor</strong>: A que tiver;<br><br>
+<strong>Dimensões do produto Casal</strong>: (altura x largura x comprimento) 22x138x188cM<br>
+<strong>Marca</strong>: Mats Store;<br>
+<strong>Material</strong>: Madeira tratada;<br>
+<strong>Proteções</strong>: Antiácaro.
+                    </div>
+                  </div>
+                </div>
+              </div>
+        </div>
+        <div class="row">
+            <div class="col-6 d-flex justify-content-center">
+                <button type="submit" id="favoritar" class="btn btn-primary" onclick="favoritar()">LISTA DE DESEJO</button>
+            </div>            
+            <div class="col-6 d-flex justify-content-center">
+                <button type="submit" class="btn btn-primary">COMPRAR</button>
+            </div>
+            
+        </div>
+        <form class="row" onsubmit="enviar(event)">
+            <h6>DEIXE A SUA AVALIAÇÃO, A SUA OPINIÃO É MUITO IMPORTANTE PARA NÓS</h6>
+            <div class="form-row">
+              <div class="col">
+                <input type="text" class="form-control" placeholder="Nome">
+              </div>
+              <div class="col">
+                <input id="tituloComentario" type="text" class="form-control" placeholder="Título" onkeyup="verificar()">
+                <input id="descricaoComentario" type="text" class="form-control" placeholder="Comentário">
+              </div>
+            </div>
+            <div class="d-flex justify-content-center">
+                <button type="submit" class="btn btn-primary" >Enviar</button>
+            </div>
+          </form>
+          <footer></footer>
+    </div>
+    <script src="./sexta.js"></script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+</html>

@@ -1,0 +1,31 @@
+$cor-primaria: darkorange;
+$btn-primary: darkorange;
+
+@mixin espamento(){
+    margin: 5px;
+    padding: 20px;
+}
+
+.row, input{
+    @include espamento();
+}
+
+body{
+    div{
+        div{
+           img{
+                
+            } 
+        }
+    }
+}
+
+button{
+    width: 200px;
+}
+
+
+.btn-primary{
+    background-color: $cor-primaria !important;
+    border-color: $cor-primaria;
+}
