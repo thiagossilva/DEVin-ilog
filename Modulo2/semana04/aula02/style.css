@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+  }
+
+  .meu-header {
+    font-size: 5em;
+    font-family: cursive;
+    background: -webkit-linear-gradient(#1867ce, #33fadf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+  }
+  
+  .estilo-personagem {
+    background-color: white;
+    text-align: center;
+    width: 30%;
+    margin-bottom: 10px;
+    padding: 15px;
+    border: 2px solid green;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 1em;
+    font-weight: bolder;
+    cursor: pointer;
+  }
+  
+  .estilo-personagem:hover {
+    background-color: rgb(131, 236, 127);
+    color: white;
+    font-weight: bolder;
+    border: 2px solid white;
+  }
+
+  .mario {
+    font-size: 5em;
+    font-family: cursive;
+    background: -webkit-linear-gradient(#EB0804, #0946ba);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .batman {
+    font-size: 5em;
+    font-family: cursive;
+    background: -webkit-linear-gradient(#fdfe01, #000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .gon {
+    font-size: 5em;
+    font-family: cursive;
+    background: -webkit-linear-gradient(#33aa66, #000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }

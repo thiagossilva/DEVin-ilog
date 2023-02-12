@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.minha-div {
+    width: 80%;
+    height: 50px;
+    background-color: cyan;
+}

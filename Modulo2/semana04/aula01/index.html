@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Create a Button in JavaScript</title>
+    <title>Criar botão JS</title>
   </head>
 
   <body>
@@ -8,21 +8,18 @@
 
     <script>
       // Create a button element
-      const button = document.createElement('button')
+      const btn = document.createElement('button')
 
-      // Set the button text to 'Can you click me?'
-      button.innerText = 'Can you click me?'
+      btn.innerText = 'Clique aqui'
 
-      button.id = 'mainButton'
+      btn.id = 'mainButton'
 
-      // Attach the "click" event to your button
-      button.addEventListener('click', () => {
-        // When there is a "click"
-        // it shows an alert in the browser
-        alert('Oh, you clicked me!')
+      btn.addEventListener('click', () => {
+
+        alert('Você clicou no botão!')
       })
 
-      document.body.appendChild(button)
+      document.body.appendChild(btn)
     </script>
   </body>
 </html>
