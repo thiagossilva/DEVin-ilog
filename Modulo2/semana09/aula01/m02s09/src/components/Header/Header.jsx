@@ -1,11 +1,10 @@
-import { useContext } from "react";
 import { Link } from "react-router-dom";
-import UserInfoContext from "../../UserInfoContext";
-
+import { useUserInfo } from "../../UserInfoContext";
 import "./Header.css";
 
+
 function Header() {
-  const [userInfo] = useContext(UserInfoContext);
+  const userInfo = useUserInfo();
 
   return (
     <header className="header-container">
@@ -14,6 +13,7 @@ function Header() {
       <nav>
         <Link to="/">Início</Link>
         <Link to="/contact">Contato</Link>
+        <Link to="/reducer">Reducer</Link>
       </nav>
     </header>
   );

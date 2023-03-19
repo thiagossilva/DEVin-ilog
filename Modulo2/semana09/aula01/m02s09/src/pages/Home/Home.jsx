@@ -1,11 +1,11 @@
-import { useContext, useState } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
-import UserInfoContext from "../../UserInfoContext";
+import { useSetUserInfo } from "../../UserInfoContext";
 
 import "./Home.css";
 
 function HomePage() {
-  const [userInfo, setUserInfo] = useContext(UserInfoContext);
+  const setUserInfo = useSetUserInfo();
   const [inputValue, setInputValue] = useState("");
 
   const handleInputChange = (event) => {

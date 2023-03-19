@@ -1,10 +1,10 @@
-import { useContext } from "react";
-import UserInfoContext from "../../UserInfoContext";
+import { useUserInfoContext } from "../../UserInfoContext";
+import "./Footer.css";
 
 import "./Footer.css";
 
 function Footer() {
-  const [userInfo, setUserInfo] = useContext(UserInfoContext);
+  const [userInfo] = useUserInfoContext();
 
   const mudaNome = () => setUserInfo({ name: "Thiaguinho" });
 

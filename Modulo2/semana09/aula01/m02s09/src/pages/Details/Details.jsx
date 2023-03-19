@@ -1,5 +1,7 @@
-import { useParams } from "react-router-dom";
+import { Link } from "react-router-dom";
+import { useContext, useState } from "react";
 import "./Details.css";
+import UserInfoContext from "../../UserInfoContext";
 
 function Details() {
   const [userInfo, setUserInfo] = useContext(UserInfoContext);

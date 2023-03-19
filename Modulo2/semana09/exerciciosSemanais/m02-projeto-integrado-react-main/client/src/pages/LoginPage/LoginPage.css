@@ -1,0 +1,23 @@
+.loginPageContainer {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-6);
+  align-items: center;
+}
+
+.loginPageContainer input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid black;
+  height: 30px;
+  width: 200px;
+}
+
+.loginPageContainer input:focus {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid black;
+  height: 30px;
+  width: 200px;
+  outline: none;
+}

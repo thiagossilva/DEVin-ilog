@@ -9,18 +9,26 @@ import Details from "./pages/Details";
 import NotFound  from "./pages/NotFound";
 
 import UserInfoContext from "./UserInfoContext";
+import Reducer from "./pages/Reducer/Reducer";
+
+
+
+
 
 function App() {
   const [userInfo, setUserInfo] = useState({ name: "Thiago" });
+
+
   return (
     <UserInfoContext.Provider value={[userInfo, setUserInfo]}>
       <Header />
-      <PageWrapper>
+      <PageWrapper>        
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/details/:batata" element={<Details />} />
-          <Route path="*" element={<NotFound />} />
+          <Route path="/reducer" element={<Reducer />}/>
+          <Route path="*" element={<NotFound />} />          
         </Routes>
       </PageWrapper>
       <Footer />
