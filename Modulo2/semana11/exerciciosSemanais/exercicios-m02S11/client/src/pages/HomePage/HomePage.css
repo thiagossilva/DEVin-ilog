@@ -9,3 +9,20 @@
   justify-content: space-between;
   align-items: end;
 }
+
+.courseNotFound {
+  color: var(--primary);
+  display: flex;
+  justify-content: center;
+  font-size: 36px;  
+  line-height: 44px;
+}
+
+.newSearch {
+  color: #727375;
+  display: flex;
+  justify-content: center;
+  font-size: 36px;
+
+  line-height: 44px;
+}

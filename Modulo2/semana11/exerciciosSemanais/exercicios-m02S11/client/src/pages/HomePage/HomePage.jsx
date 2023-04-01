@@ -39,11 +39,16 @@ function HomePage() {
       )}
 
       {!isLoading && !error && !courses.length && (
+        <>
         <img
           height={500}
           src={emptyState}
           alt="Imagem de nenhum item encontrado"
         />
+        <span className="courseNotFound">Nenhum curso encontrado</span>
+        <span className="newSearch">Tente efetuar uma nova busca com outros filtros</span>
+        </>
+
       )}
     </div>
   )
