@@ -1,4 +1,0 @@
-1 - Explique com suas palavras o que seria o limite W.I.P. no Kanban.
-
-R: W.I.P é a quantidade de processos que a equipe de desenvolvimento consegue trabalhar por ver. Movendo da parte "Fazer" para a parte "Fazendo".
-

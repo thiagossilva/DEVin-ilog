@@ -1,3 +1,0 @@
-4 - Informe qual comando git usamos para listar os branchs disponíveis/existentes.
-
-R: Listar branchs disponíveis: git branch.
